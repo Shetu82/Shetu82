@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shetu82
+- 👋 Hi, I’m Shohel Rana
 - 👀 I’m interested in web development , Mobile application development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
